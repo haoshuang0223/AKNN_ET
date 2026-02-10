@@ -1,7 +1,7 @@
 
 ## Installation
 The installation prerequisites can be found in the FAISS installation instructions, which can be found [here](./docs/INSTALL.md).
-To run DARTH, it is required that LightGBM is installed and is put in  `/opt/OpenBLAS/`.
+To run our project, it is required that LightGBM is installed and is put in  `/opt/OpenBLAS/`.
 To compile FAISS with our project, use:
 
 ```bash
